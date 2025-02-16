@@ -1,0 +1,1 @@
+# computer-vision.-finding-the-coordinates-of-the-fingers
